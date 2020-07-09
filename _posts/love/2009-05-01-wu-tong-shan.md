@@ -6,4 +6,6 @@ categories: love
 tags: 运动 爬山
 ---
 
+![title](http://image.sideproject.cn/title/title_016.jpg){:class="image-title"}
+
 和高中同学一起爬梧桐山

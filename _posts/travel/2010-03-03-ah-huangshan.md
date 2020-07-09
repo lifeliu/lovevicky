@@ -6,6 +6,8 @@ categories: travel
 tags: 黄山 安徽 旅行
 ---
 
+![title](http://image.sideproject.cn/title/title_010.jpg){:class="image-title"}
+
 黄山
 ===
 
@@ -17,7 +19,6 @@ tags: 黄山 安徽 旅行
 
 只可惜，没有看到传说中的云海。
 
-![折耳猫](http://image.sideproject.cn/zheermao.jpg)
 
 
 ---Read More---

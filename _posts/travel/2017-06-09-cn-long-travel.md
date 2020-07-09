@@ -6,6 +6,8 @@ categories: travel
 tags: 小长假
 ---
 
+![title](http://image.sideproject.cn/title/title_018.jpg){:class="image-title"}
+
 **说走就走的旅行**
 
 | 天数 | 日期 | 轨迹 | 宿 | 游玩 |

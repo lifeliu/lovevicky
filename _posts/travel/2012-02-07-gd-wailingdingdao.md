@@ -6,6 +6,8 @@ categories: travel
 tags: 外伶仃岛 珠海 旅行
 ---
 
+![title](http://image.sideproject.cn/title/title_010.jpg){:class="image-title"}
+
 外伶仃岛
 =======
 
@@ -14,8 +16,5 @@ tags: 外伶仃岛 珠海 旅行
 慕着英雄的名 去这个小岛溜达了一圈
 
 路途实在是绕啊！
-
-![折耳猫](http://image.sideproject.cn/zheermao.jpg)
-
 
 ---Read More---

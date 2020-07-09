@@ -6,6 +6,8 @@ categories: travel
 tags: 朝天门 重庆 旅行
 ---
 
+![title](http://image.sideproject.cn/title/title_010.jpg){:class="image-title"}
+
 朝天门
 ===
 
@@ -14,8 +16,5 @@ tags: 朝天门 重庆 旅行
 不过山城终究还是有山城的味道，
 
 上坡下坎，身体素质差的话，去玩还是挺累的。
-
-![折耳猫](http://image.sideproject.cn/zheermao.jpg)
-
 
 ---Read More---
