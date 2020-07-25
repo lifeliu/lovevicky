@@ -6,7 +6,7 @@ categories: travel
 tags: 黄山 安徽 旅行
 ---
 
-![title](http://image.sideproject.cn/title/title_010.jpg){:class="image-title"}
+![title](http://image.sideproject.cn/title/title_101.jpg){:class="image-title"}
 
 黄山
 ===

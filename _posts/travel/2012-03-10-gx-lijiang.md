@@ -6,7 +6,7 @@ categories: travel
 tags: 漓江 广西 旅行
 ---
 
-![title](http://image.sideproject.cn/title/title_010.jpg){:class="image-title"}
+![title](http://image.sideproject.cn/title/title_117.jpg){:class="image-title"}
 
 漓江
 ===

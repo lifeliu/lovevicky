@@ -6,7 +6,7 @@ categories: travel
 tags: 说走就走 旅行
 ---
 
-![title](http://image.sideproject.cn/title/title_012.jpg){:class="image-title"}
+![title](http://image.sideproject.cn/title/title_132.jpg){:class="image-title"}
 
 **北极村**
 
