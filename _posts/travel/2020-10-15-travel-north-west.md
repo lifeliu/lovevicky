@@ -6,7 +6,7 @@ categories: travel
 tags: 国庆小长假
 ---
 
-![title](http://image.sideproject.cn/title/title_136.jpg){:class="image-title"}
+![title](//image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
 
 **说走就走的旅行**
 
