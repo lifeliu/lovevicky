@@ -6,7 +6,7 @@ categories: travel
 tags: 国庆小长假
 ---
 
-![title](//image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+![title](//image.sideproject.cn/travel/202010/qinghaihu-title.jpg){:class="image-title"}
 
 青海湖
 
