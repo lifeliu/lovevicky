@@ -8,7 +8,7 @@ tags: 国庆小长假
 
 ![title](//image.sideproject.cn/travel/202010/dongguan-title.jpg){:class="image-title"}
 
-东关清真寺
+西宁市东关清真大寺
 
 **精彩内容，即将发布，敬请期待……**
 
