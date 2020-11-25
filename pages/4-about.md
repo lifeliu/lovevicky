@@ -6,5 +6,4 @@ permalink: /about
 
 About **lovevicky.com**!
 
-**Vicky**
 
