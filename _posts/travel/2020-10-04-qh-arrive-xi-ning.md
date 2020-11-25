@@ -6,7 +6,7 @@ categories: travel
 tags: 国庆小长假
 ---
 
-![title](http://image.sideproject.cn/title/title_201.jpg){:class="image-title"}
+![title](//image.sideproject.cn/travel/202010/xining-title.jpg){:class="image-title"}
 
 到达西宁
 
