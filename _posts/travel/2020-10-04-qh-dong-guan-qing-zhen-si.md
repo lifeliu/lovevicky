@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 东关清真寺
+title: 东关清真大寺
 author: fire
 categories: travel 
 tags: 国庆小长假
