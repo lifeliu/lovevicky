@@ -1,0 +1,19 @@
+---
+layout: post
+title: 嘉峪关
+author: fire
+categories: gs 
+tags: 国庆小长假
+---
+
+![title](//image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+
+嘉峪关
+
+**精彩内容，即将发布，敬请期待……**
+
+*更多旅程*
+
+[东关清真大寺](dong-guan-qing-zhen-si.html)、[**塔尔寺**](ta-er-temple.html)、[日月山](ri-yue-shan.html) 、[**环湖骑行**](bicycle.html)、[青海湖](qing-hai-lake.html) 、[**茶卡盐湖**](cha-ka-salt-lake.html)  
+[德令哈](de-ling-ha.html) 、[**东台吉乃尔湖**](dong-tai-ji-nai-hu.html)、[最美315公路](road-315.html)、[**乌苏特水上雅丹**](shui-shang-ya-dan.html) [翡翠湖](fei-cui-hu.html)、[南八仙](nan-ba-xian.html)  
+[石油小镇](shi-you-xiao-zhen.html)、[**又见敦煌**](you-jian-dun-huang.html)、[**莫高窟**](mo-gao-ku.html)、[**鸣沙山**](ming-sha-shan.html)、[嘉峪关](jia-yu-guan.html)、[张掖七彩丹霞](qi-cai-dan-xia.html) 、[祁连山大草原](qi-lian-shan.html)
