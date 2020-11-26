@@ -6,7 +6,7 @@ categories: qh
 tags: 国庆小长假
 ---
 
-![title](//image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+![title](//image.sideproject.cn/travel/202010/north-west.jpg){:class="image-title"}
 
 **说走就走的旅行**
 
