@@ -2,7 +2,7 @@
 layout: post
 title: 张掖七彩丹霞
 author: fire
-categories: gs 
+categories: GanSu 
 tags: 国庆小长假
 ---
 

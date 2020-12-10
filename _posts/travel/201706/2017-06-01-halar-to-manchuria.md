@@ -2,7 +2,7 @@
 layout: post
 title: 第四站：满洲里
 author: fire
-categories: nm 
+categories: InnerMonggolia 
 tags: 说走就走 旅行
 ---
 

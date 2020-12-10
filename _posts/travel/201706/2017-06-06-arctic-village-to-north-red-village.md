@@ -2,7 +2,7 @@
 layout: post
 title: 第十站：北红村
 author: fire
-categories: hl 
+categories: HeiLongJiang 
 tags: 说走就走 旅行
 ---
 

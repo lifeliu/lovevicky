@@ -2,7 +2,7 @@
 layout: post
 title: 水上雅丹
 author: fire
-categories: qh 
+categories: QingHai 
 tags: 国庆小长假
 ---
 

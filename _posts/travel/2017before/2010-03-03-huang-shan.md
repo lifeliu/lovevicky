@@ -2,7 +2,7 @@
 layout: post
 title: 黄山
 author: fire
-categories: ah 
+categories: AnHui 
 tags: 黄山 安徽 旅行
 ---
 

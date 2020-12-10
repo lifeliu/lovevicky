@@ -2,7 +2,7 @@
 layout: post
 title: 第五站：额尔古纳
 author: fire
-categories: nm 
+categories: InnerMonggolia 
 tags: 说走就走 旅行
 ---
 

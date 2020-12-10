@@ -2,7 +2,7 @@
 layout: post
 title: 第六站：室韦
 author: fire
-categories: nm 
+categories: InnerMonggolia 
 tags: 说走就走 旅行
 ---
 

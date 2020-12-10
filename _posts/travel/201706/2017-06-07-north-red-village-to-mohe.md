@@ -2,7 +2,7 @@
 layout: post
 title: 九曲十八弯
 author: fire
-categories: hl 
+categories: HeiLongJiang 
 tags: 说走就走 旅行
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 第七站：临江
 author: fire
-categories: nm 
+categories: InnerMonggolia 
 tags: 说走就走 旅行
 ---
 

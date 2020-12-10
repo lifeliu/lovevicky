@@ -2,7 +2,7 @@
 layout: post
 title: 东关清真大寺
 author: fire
-categories: qh 
+categories: QingHai 
 tags: 国庆小长假
 ---
 

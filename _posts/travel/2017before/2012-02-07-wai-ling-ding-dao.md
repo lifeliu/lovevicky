@@ -2,7 +2,7 @@
 layout: post
 title: 外伶仃岛
 author: fire
-categories: gd 
+categories: Guangdong 
 tags: 外伶仃岛 珠海 旅行
 ---
 

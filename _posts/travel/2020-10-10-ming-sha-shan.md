@@ -2,7 +2,7 @@
 layout: post
 title: 鸣沙山
 author: fire
-categories: gs 
+categories: GanSu 
 tags: 国庆小长假
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 离开西宁
 author: fire
-categories: qh 
+categories: QingHai 
 tags: 国庆小长假
 ---
 

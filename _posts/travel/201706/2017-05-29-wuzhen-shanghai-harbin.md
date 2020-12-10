@@ -2,7 +2,7 @@
 layout: post
 title: 一路向北
 author: fire
-categories: hl 
+categories: HeiLongJiang 
 tags: 说走就走 旅行
 ---
 

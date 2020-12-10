@@ -2,7 +2,7 @@
 layout: post
 title: 朝天门
 author: fire
-categories: cq 
+categories: Chongqing 
 tags: 朝天门 重庆 旅行
 ---
 

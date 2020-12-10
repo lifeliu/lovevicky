@@ -2,7 +2,7 @@
 layout: post
 title: 第九站：北极村
 author: fire
-categories: hl 
+categories: HeiLongJiang 
 tags: 说走就走 旅行
 ---
 

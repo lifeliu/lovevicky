@@ -2,7 +2,7 @@
 layout: post
 title: 说走就走的旅行
 author: fire
-categories: gd 
+categories: Guangdong 
 tags: 说走就走 旅行
 ---
 

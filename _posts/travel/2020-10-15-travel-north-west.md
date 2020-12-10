@@ -2,7 +2,7 @@
 layout: post
 title: 2020国庆西北小长假
 author: fire
-categories: qh 
+categories: travel 
 tags: 国庆小长假
 ---
 

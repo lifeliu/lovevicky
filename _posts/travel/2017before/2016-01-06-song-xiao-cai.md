@@ -2,7 +2,7 @@
 layout: post
 title: 魔都
 author: fire
-categories: sh 
+categories: Shanghai 
 tags: 魔都 上海 旅行
 ---
 

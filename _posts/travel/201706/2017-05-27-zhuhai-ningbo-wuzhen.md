@@ -2,7 +2,7 @@
 layout: post
 title: 第一站：乌镇
 author: fire
-categories: zj 
+categories: Zhejiang 
 tags: 说走就走 旅行
 ---
 

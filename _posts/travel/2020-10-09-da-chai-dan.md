@@ -2,7 +2,7 @@
 layout: post
 title: 大柴旦
 author: fire
-categories: qh 
+categories: QingHai 
 tags: 国庆小长假
 ---
 

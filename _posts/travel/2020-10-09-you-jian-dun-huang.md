@@ -2,7 +2,7 @@
 layout: post
 title: 又见敦煌
 author: fire
-categories: gs 
+categories: GanSu 
 tags: 国庆小长假
 ---
 
