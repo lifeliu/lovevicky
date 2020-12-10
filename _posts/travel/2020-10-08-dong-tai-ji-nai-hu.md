@@ -6,7 +6,7 @@ categories: QingHai
 tags: 国庆小长假
 ---
 
-![title](//image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+![title](//image.sideproject.cn/travel/202010/dongtai-title.jpg){:class="image-title"}
 
 东台吉乃湖
 
