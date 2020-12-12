@@ -12,11 +12,11 @@ tags: 国庆小长假
 
 趁疫情期间机票便宜升级为头等舱，近4个小时的行程躺着还是舒服一点。
 
-![头等舱](//image.sideproject.cn/travel/202010/xining/01.jpg){:class="image-right"}
+![头等舱](//image.sideproject.cn/travel/202010/xining/01.jpg){:class="image-middle"}
 
 空客A380双通道大飞机，头等舱不可谓不豪华舒适，可平躺，可卧，还有PS游戏手柄可以玩。
 
-![头等舱](//image.sideproject.cn/travel/202010/xining/02.jpg){:class="image-left"}
+![头等舱](//image.sideproject.cn/travel/202010/xining/02.jpg){:class="image-middle"}
 
 到西宁入住酒店后，第一时间就想到是当地的美食的，毕竟一上午还没吃东西，还是有点饿的，看这大羊肉串，就问你想不想吃。
 
