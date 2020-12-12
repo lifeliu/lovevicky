@@ -156,6 +156,14 @@ max-width: 100%;
 border-radius: 8px !important;
 }
 
+.image-show {
+float: left !important;
+border: 0px solid #ddd !important;
+vertical-align: top;
+max-width: 100%;
+border-radius: 2px !important;
+}
+
 .image-left {
 float: left !important;
 border: 0px solid #ddd !important;
