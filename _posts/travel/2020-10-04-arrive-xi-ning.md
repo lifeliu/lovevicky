@@ -12,21 +12,23 @@ tags: 国庆小长假
 
 趁疫情期间机票便宜升级为头等舱，近4个小时的行程躺着还是舒服一点。
 
-![头等舱](//image.sideproject.cn/travel/202010/xining/01.jpg){:class="image-show"}
+![头等舱](//image.sideproject.cn/travel/202010/xining/01.jpg){:class="image-right"}
 
-![头等舱](//image.sideproject.cn/travel/202010/xining/02.jpg){:class="image-show"}
+空客A380双通道大飞机，头等舱不可谓不豪华舒适，可平躺，可卧，还有PS游戏手柄可以玩
+
+![头等舱](//image.sideproject.cn/travel/202010/xining/02.jpg){:class="image-left"}
 
 到西宁入住酒店后，第一时间就想到是当地的美食的，毕竟一上午还没吃东西，还是有点饿的，看这大羊肉串，就问你想不想吃。
 
-![大羊肉串](//image.sideproject.cn/travel/202010/xining/03.jpg){:class="image-show"}
+![大羊肉串](//image.sideproject.cn/travel/202010/xining/03.jpg){:class="image-middle"}
 
 吃完午餐，就找周边的小景点去玩，本想着去**土楼观**看看的，结果到那里了才傻了眼，景区关门没开了，也不知道是疫情的原因还是维护，只能远远的在下面拍拍照，对这类悬崖上的建筑一直是比较好奇的。
 
-![土楼观](//image.sideproject.cn/travel/202010/xining/05.jpg){:class="image-show"}
+![土楼观](//image.sideproject.cn/travel/202010/xining/05.jpg){:class="image-middle"}
 
 还好附近就是美丽园，直接闲逛着过去了。
 
-![美丽园](//image.sideproject.cn/travel/202010/xining/05.jpg){:class="image-show"}
+![美丽园](//image.sideproject.cn/travel/202010/xining/05.jpg){:class="image-middle"}
 
 *更多旅程*
 
