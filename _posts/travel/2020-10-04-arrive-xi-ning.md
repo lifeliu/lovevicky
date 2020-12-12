@@ -14,7 +14,7 @@ tags: 国庆小长假
 
 ![头等舱](//image.sideproject.cn/travel/202010/xining/01.jpg){:class="image-right"}
 
-空客A380双通道大飞机，头等舱不可谓不豪华舒适，可平躺，可卧，还有PS游戏手柄可以玩
+空客A380双通道大飞机，头等舱不可谓不豪华舒适，可平躺，可卧，还有PS游戏手柄可以玩。
 
 ![头等舱](//image.sideproject.cn/travel/202010/xining/02.jpg){:class="image-left"}
 
