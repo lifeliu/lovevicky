@@ -18,19 +18,19 @@ tags: 国庆小长假
 
 ![头等舱](//image.sideproject.cn/travel/202010/xining/02.jpg){:class="image-middle"}
 
-到西宁入住酒店后，第一时间就想到是当地的美食的，毕竟大西北纯天然的牛羊肉那可是垂涎已经。再加上一上午还没吃东西，机上人多，空间密闭，为了防万一，还是一直忍着没有吃机餐，这会还是很饿的。看这大羊肉串，就问你想不想吃。
+到西宁入住酒店后，第一时间就想到是当地的美食的，毕竟大西北纯天然的牛羊肉那可是垂涎已久。再加上一上午还没吃东西，机上人多，空间密闭，为了防万一，还是一直忍着没有吃机餐，这会还是很饿的。看这大羊肉串，就问你想不想吃。
 
 ![大羊肉串](//image.sideproject.cn/travel/202010/xining/03.jpg){:class="image-middle"}
 
 吃完午餐，就找周边的小景点去玩，本想着去**土楼观**看看的，结果到那里了才傻了眼，景区关门没开了，也不知道是疫情的原因还是维护，只能远远的在下面拍拍照，对这类悬崖上的建筑一直是比较好奇的。
 
-![土楼观](//image.sideproject.cn/travel/202010/xining/05.jpg){:class="image-middle"}
+![土楼观](//image.sideproject.cn/travel/202010/xining/04.jpg){:class="image-middle"}
 
 还好附近就是美丽园，直接闲逛着过去了。
 
 ![美丽园](//image.sideproject.cn/travel/202010/xining/05.jpg){:class="image-middle"}
 
-*更多旅程*
+*更多大西北旅程*
 
 [东关清真大寺](/qinghai/dong-guan-qing-zhen-si.html)、[**塔尔寺**](/qinghai/ta-er-temple.html)、[日月山](/qinghai/ri-yue-shan.html) 、[**环湖骑行**](/qinghai/bicycle.html)、[青海湖](/qinghai/qing-hai-lake.html) 、[**茶卡盐湖**](/qinghai/cha-ka-salt-lake.html)  
 [德令哈](/qinghai/de-ling-ha.html) 、[**东台吉乃尔湖**](/qinghai/dong-tai-ji-nai-hu.html)、[最美315公路](/qinghai/road-315.html)、[**乌苏特水上雅丹**](/qinghai/shui-shang-ya-dan.html) [翡翠湖](fei-cui-hu.html)、[南八仙](/qinghai/nan-ba-xian.html)  
