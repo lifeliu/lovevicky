@@ -12,7 +12,9 @@ tags: 国庆小长假
 
 趁疫情期间机票便宜升级为头等舱，近4个小时的行程躺着还是舒服一点。
 
+<div align="center">
 ![头等舱](//image.sideproject.cn/travel/202010/xining/01.jpg){:class="image-middle"}
+</div>
 
 空客A380双通道大飞机，头等舱不可谓不豪华舒适，可平躺，可卧，还有PS游戏手柄可以玩。
 
