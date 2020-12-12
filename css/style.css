@@ -173,7 +173,7 @@ border-radius: 6px !important;
 }
 
 .image-middle {
-float: middle !important;
+float: none !important;
 border: 0px solid #ddd !important;
 vertical-align: top;
 max-width: 80%;
