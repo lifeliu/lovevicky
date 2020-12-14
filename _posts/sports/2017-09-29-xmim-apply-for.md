@@ -6,7 +6,7 @@ categories: sports
 tags: 马拉松 运动
 ---
 
-![title](http://image.sideproject.cn/title/title_008.jpg){:class="image-title"}
+![title](http://image.sideproject.cn/titles/title_008.jpg){:class="image-title"}
 
 **中了**
 

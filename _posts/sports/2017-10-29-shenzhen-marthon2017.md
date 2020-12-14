@@ -8,7 +8,7 @@ categories: sports
 tags: 运动 马拉松
 ---
 
-![title](http://image.sideproject.cn/title/title_009.jpg){:class="image-title"}
+![title](http://image.sideproject.cn/titles/title_009.jpg){:class="image-title"}
 
 2017深圳国际马拉松，66%的中签率居然没中签。
 

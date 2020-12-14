@@ -8,7 +8,7 @@ categories: sports
 tags: 运动 马拉松
 ---
 
-![title](http://image.sideproject.cn/title/title_003.jpg){:class="image-title"}
+![title](http://image.sideproject.cn/titles/title_003.jpg){:class="image-title"}
 
 **2012深圳盐田山地马拉松**
 
