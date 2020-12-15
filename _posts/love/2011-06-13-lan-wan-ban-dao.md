@@ -6,7 +6,7 @@ categories: path
 tags: 轨迹
 ---
 
-![title](http://image.sideproject.cn/titles/title_016.jpg){:class="image-title"}
+![title](//image.sideproject.cn/titles/title_016.jpg){:class="image-title"}
 
 *有些事现在不记下来，以后怎么想当年呢*
 

@@ -6,7 +6,7 @@ categories: YunNan
 tags: 香格里拉 云南 旅行
 ---
 
-![title](http://image.sideproject.cn/title/title_115.jpg){:class="image-title"}
+![title](//image.sideproject.cn/title/title_115.jpg){:class="image-title"}
 
 香格里拉
 =======
