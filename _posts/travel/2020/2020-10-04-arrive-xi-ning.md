@@ -6,7 +6,7 @@ categories: QingHai
 tags: 国庆小长假
 ---
 
-![title](//image.sideproject.cn/travel/202010/xining-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/202010/xining-title.jpg){:class="image-title"}
 
 一场疫情，在家里憋了大半年了。和好朋友约着趁国庆假期，带着爱人，两个家庭一起出去旅游。人多的地方是不敢去凑热闹了，找个偏远点的地方去走走。于是去了西北，青海-甘肃环线玩一圈。出发，Let's go!
 

@@ -6,7 +6,7 @@ categories: GanSu
 tags: 国庆小长假
 ---
 
-![title](//image.sideproject.cn/titles/title_004.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titles/title_004.jpg){:class="image-title"}
 
 鸣沙山
 

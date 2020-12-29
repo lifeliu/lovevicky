@@ -6,7 +6,7 @@ categories: InnerMonggolia
 tags: 说走就走 旅行
 ---
 
-![title](//image.sideproject.cn/title/title_129.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/title/title_129.jpg){:class="image-title"}
 
 **额尔古纳**
 

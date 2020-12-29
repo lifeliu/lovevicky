@@ -6,7 +6,7 @@ categories: QingHai
 tags: 国庆小长假
 ---
 
-![title](//image.sideproject.cn/travel/202010/dongguan-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/202010/dongguan-title.jpg){:class="image-title"}
 
 西宁市东关清真大寺
 
