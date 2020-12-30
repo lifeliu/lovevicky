@@ -3,7 +3,7 @@ layout: post
 title: 橄榄鹏苑
 author: fire
 categories: love 
-tags: 搬家 橄榄鹏苑
+tags: 橄榄鹏苑
 ---
 
 ![title](https://image.sideproject.cn/titlex/title_004.jpg){:class="image-title"}

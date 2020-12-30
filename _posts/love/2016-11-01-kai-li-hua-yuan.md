@@ -3,7 +3,7 @@ layout: post
 title: 凯丽花园
 author: fire
 categories: love 
-tags: 搬家 凯丽花园
+tags: 凯丽花园
 ---
 
 ![title](https://image.sideproject.cn/title/title_007.jpg){:class="image-title"}

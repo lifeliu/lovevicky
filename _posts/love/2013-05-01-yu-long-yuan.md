@@ -3,7 +3,7 @@ layout: post
 title: 钰龙园
 author: fire
 categories: love 
-tags: 搬家 钰龙园
+tags: 钰龙园
 ---
 
 ![title](https://image.sideproject.cn/titlex/title_013.jpg){:class="image-title"}

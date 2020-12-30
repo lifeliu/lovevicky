@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 蓝湾半岛：1年
+title: 蓝湾半岛
 author: fire
 categories: path 
 tags: 轨迹
