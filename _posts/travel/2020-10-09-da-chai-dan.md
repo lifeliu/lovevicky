@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 大柴旦
+title: 大柴旦-翡翠湖-南八仙
 author: fire
 categories: QingHai 
 tags: 国庆小长假
@@ -9,6 +9,14 @@ tags: 国庆小长假
 ![title](https://image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
 
 大柴旦
+
+![title](https://image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+
+翡翠湖
+
+![title](https://image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+
+南八仙
 
 **精彩内容，即将发布，敬请期待……**
 

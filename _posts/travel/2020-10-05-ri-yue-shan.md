@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 日月山
+title: 日月山-塔尔寺
 author: fire
 categories: QingHai 
 tags: 国庆小长假
@@ -9,6 +9,12 @@ tags: 国庆小长假
 ![title](https://image.sideproject.cn/travel/202010/riyueshan-title.jpg){:class="image-title"}
 
 日月山
+
+![title](https://image.sideproject.cn/travel/202010/taersi-title.jpg){:class="image-title"}
+
+塔尔寺
+
+
 
 **精彩内容，即将发布，敬请期待……**
 

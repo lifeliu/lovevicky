@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 青海湖
+title: 青海湖-环湖骑行
 author: fire
 categories: QingHai 
 tags: 国庆小长假
@@ -9,6 +9,10 @@ tags: 国庆小长假
 ![title](https://image.sideproject.cn/travel/202010/qinghaihu-title.jpg){:class="image-title"}
 
 青海湖
+
+![title](https://image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+
+环湖骑行
 
 **精彩内容，即将发布，敬请期待……**
 

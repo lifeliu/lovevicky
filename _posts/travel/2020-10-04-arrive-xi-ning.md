@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 出发去西宁
+title: 西宁
 author: fire
 categories: QingHai
 tags: 国庆小长假
@@ -29,6 +29,10 @@ tags: 国庆小长假
 还好附近就是美丽园，直接闲逛着过去了。
 
 ![美丽园](https://image.sideproject.cn/travel/202010/xining/05.jpg){:class="image-middle"}
+
+![title](https://image.sideproject.cn/travel/202010/dongguan-title.jpg){:class="image-title"}
+
+西宁市东关清真大寺
 
 *更多大西北旅程*
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 东台吉乃湖
+title: 东台吉乃湖-最美315公路-水上雅丹
 author: fire
 categories: QingHai 
 tags: 国庆小长假
@@ -9,6 +9,14 @@ tags: 国庆小长假
 ![title](https://image.sideproject.cn/travel/202010/dongtai-title.jpg){:class="image-title"}
 
 东台吉乃湖
+
+![title](https://image.sideproject.cn/travel/202010/315-title.jpg){:class="image-title"}
+
+最美315公路
+
+![title](https://image.sideproject.cn/travel/202010/shuishang-title.jpg){:class="image-title"}
+
+水上雅丹
 
 **精彩内容，即将发布，敬请期待……**
 
