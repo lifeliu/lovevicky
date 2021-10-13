@@ -6,7 +6,7 @@ categories: travel
 tags: 小长假
 ---
 
-![title](https://image.sideproject.cn/title/title_136.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/title_036.jpg){:class="image-title"}
 
 **说走就走的旅行**
 

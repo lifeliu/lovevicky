@@ -6,7 +6,7 @@ categories: Zhejiang
 tags: 说走就走 旅行
 ---
 
-![title](https://image.sideproject.cn/title/title_122.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/title_022.jpg){:class="image-title"}
 
 **乌镇**
 

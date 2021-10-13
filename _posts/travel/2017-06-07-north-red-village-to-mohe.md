@@ -6,7 +6,7 @@ categories: HeiLongJiang
 tags: 说走就走 旅行
 ---
 
-![title](https://image.sideproject.cn/title/title_134.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/title_034.jpg){:class="image-title"}
 
 **九曲十八弯**
 
