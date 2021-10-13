@@ -2,7 +2,7 @@
 layout: post
 title: 蓝湾半岛
 author: fire
-categories: path 
+categories: life 
 tags: 轨迹
 ---
 
