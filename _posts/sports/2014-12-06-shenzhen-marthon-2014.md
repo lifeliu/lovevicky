@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2014深圳国际马拉松
+title: 深圳国际马拉松2014
 subtitle: 2014 shenzhen international marthon
 author: fire
 categories: sports 

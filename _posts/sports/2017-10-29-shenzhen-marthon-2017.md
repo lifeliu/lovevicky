@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017深圳国际马拉松
+title: 深圳国际马拉松2017
 subtitle: 2017 shenzhen international marthon
 author: fire
 categories: sports 
