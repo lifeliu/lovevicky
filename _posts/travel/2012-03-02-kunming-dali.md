@@ -1,12 +1,15 @@
 ---
 layout: post
-title: 大理
+title: 昆明-大理
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行
 ---
 
 ![title](https://image.sideproject.cn/titlex/title_005.jpg){:class="image-title"}
+
+Day 1
+===
 
 第一天，周五
 

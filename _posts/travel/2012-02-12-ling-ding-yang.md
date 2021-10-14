@@ -2,7 +2,7 @@
 layout: post
 title: 外伶仃洋
 author: fire
-categories: love 
+categories: Guangdong 
 tags: 户外 伶仃洋
 ---
 

@@ -1,12 +1,16 @@
 ---
 layout: post
-title: 大理
+title: 云南7日游
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行
 ---
 
 ![title](https://image.sideproject.cn/titlex/title_014.jpg){:class="image-title"}
+
+Day 7
+===
+
 
 早上6点50火车到昆明市
 早餐

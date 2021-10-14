@@ -1,12 +1,15 @@
 ---
 layout: post
-title: 大理
+title: 大理古城
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行
 ---
 
 ![title](https://image.sideproject.cn/titlex/title_006.jpg){:class="image-title"}
+
+Day 2
+===
 
 第2天 ，大理
 阳光
