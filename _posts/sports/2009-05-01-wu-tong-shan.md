@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 爬梧桐山
+title: 梧桐山
 author: fire
-categories: love 
+categories: sports 
 tags: 运动 爬山
 ---
 

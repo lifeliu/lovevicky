@@ -2,7 +2,7 @@
 layout: post
 title: 蓝湾半岛
 author: fire
-categories: life 
+categories: love 
 tags: 轨迹
 ---
 

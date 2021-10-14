@@ -2,7 +2,7 @@
 layout: post
 title: 图片大小修改
 author: via
-categories: love 
+categories: tools 
 tags: 图片
 ---
 
