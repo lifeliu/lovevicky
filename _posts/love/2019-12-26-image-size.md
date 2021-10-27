@@ -6,7 +6,7 @@ categories: tools
 tags: 图片
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_001.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_161.jpg){:class="image-title"}
 
 1，选中要编辑的图片，右键编辑
 
