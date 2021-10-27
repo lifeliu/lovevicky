@@ -6,15 +6,15 @@ categories: QingHai
 tags: 国庆小长假
 ---
 
-![title](https://image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg){:class="image-title"}
 
 大柴旦
 
-![title](https://image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg){:class="image-title"}
 
 翡翠湖
 
-![title](https://image.sideproject.cn/travel/202010/bicycle-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg){:class="image-title"}
 
 南八仙
 

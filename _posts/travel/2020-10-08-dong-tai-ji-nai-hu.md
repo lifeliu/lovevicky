@@ -6,15 +6,15 @@ categories: QingHai
 tags: 国庆小长假
 ---
 
-![title](https://image.sideproject.cn/travel/202010/dongtai-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/dongtai-title.jpg){:class="image-title"}
 
 东台吉乃湖
 
-![title](https://image.sideproject.cn/travel/202010/315-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/315-title.jpg){:class="image-title"}
 
 最美315公路
 
-![title](https://image.sideproject.cn/travel/202010/shuishang-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/shuishang-title.jpg){:class="image-title"}
 
 水上雅丹
 

@@ -6,11 +6,11 @@ categories: QingHai
 tags: 国庆小长假
 ---
 
-![title](https://image.sideproject.cn/travel/202010/riyueshan-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/riyueshan-title.jpg){:class="image-title"}
 
 日月山
 
-![title](https://image.sideproject.cn/travel/202010/taersi-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/taersi-title.jpg){:class="image-title"}
 
 塔尔寺
 

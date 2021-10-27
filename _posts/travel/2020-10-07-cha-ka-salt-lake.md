@@ -6,7 +6,7 @@ categories: QingHai
 tags: 国庆小长假
 ---
 
-![title](https://image.sideproject.cn/travel/202010/chakayanhu-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/chakayanhu-title.jpg){:class="image-title"}
 
 茶卡盐湖
 
