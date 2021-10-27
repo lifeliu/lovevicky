@@ -6,7 +6,7 @@ categories: HeiLongJiang
 tags: 说走就走 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_035.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_057.jpg){:class="image-title"}
 
 **漠河**
 

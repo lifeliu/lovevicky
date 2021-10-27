@@ -6,7 +6,7 @@ categories: YunNan
 tags: 大理 云南 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_037.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_067.jpg){:class="image-title"}
 
 Day 3
 ===

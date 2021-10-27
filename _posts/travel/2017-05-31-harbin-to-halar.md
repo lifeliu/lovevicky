@@ -6,7 +6,7 @@ categories: InnerMonggolia
 tags: 说走就走 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_026.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_076.jpg){:class="image-title"}
 
 **海拉尔**
 

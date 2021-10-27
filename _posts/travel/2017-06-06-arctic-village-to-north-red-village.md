@@ -6,7 +6,7 @@ categories: HeiLongJiang
 tags: 说走就走 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_033.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_070.jpg){:class="image-title"}
 
 **北红村**
 

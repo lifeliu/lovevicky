@@ -6,7 +6,7 @@ categories: InnerMonggolia
 tags: 说走就走 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_027.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_077.jpg){:class="image-title"}
 
 **满洲里**
 

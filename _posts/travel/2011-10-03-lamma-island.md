@@ -6,6 +6,6 @@ categories: HongKong
 tags: 南丫岛 香港 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_031.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_061.jpg){:class="image-title"}
 
 南丫岛
