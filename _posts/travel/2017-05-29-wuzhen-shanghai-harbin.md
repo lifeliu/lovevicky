@@ -6,7 +6,7 @@ categories: HeiLongJiang
 tags: 说走就走 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/title_024.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_024.jpg){:class="image-title"}
 
 **一路向北**
 

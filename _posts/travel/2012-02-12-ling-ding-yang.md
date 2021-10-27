@@ -6,6 +6,6 @@ categories: Guangdong
 tags: 户外 伶仃洋
 ---
 
-[![title](https://image.sideproject.cn/titlex/title_020.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/title_020.jpg){:target="_blank"}
+[![title](https://image.sideproject.cn/titlex/titlex_020.jpg){:class="image-title"}](https://image.sideproject.cn/titlex/titlex_020.jpg){:target="_blank"}
 
 去外伶仃洋游玩

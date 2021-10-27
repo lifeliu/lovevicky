@@ -6,7 +6,7 @@ categories: Guangdong
 tags: 外伶仃岛 珠海 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/title_021.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_021.jpg){:class="image-title"}
 
 外伶仃岛
 =======

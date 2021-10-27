@@ -6,7 +6,7 @@ categories: Chongqing
 tags: 朝天门 重庆 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/title_019.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_019.jpg){:class="image-title"}
 
 朝天门
 ===

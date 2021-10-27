@@ -6,7 +6,7 @@ categories: GanSu
 tags: 国庆小长假
 ---
 
-![title](https://image.sideproject.cn/titlex/title_002.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_002.jpg){:class="image-title"}
 
 嘉峪关
 

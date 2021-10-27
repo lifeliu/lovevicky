@@ -6,7 +6,7 @@ categories: Guangdong
 tags: 说走就走 旅行
 ---
 
-![title](https://image.sideproject.cn/titlex/title_021.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_021.jpg){:class="image-title"}
 
 **背包旅行**
 
