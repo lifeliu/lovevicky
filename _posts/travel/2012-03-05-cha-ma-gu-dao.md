@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 茶马古道
+title: Day4：茶马古道
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行

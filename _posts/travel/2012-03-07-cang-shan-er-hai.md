@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 苍山
+title: Day6：苍山
 author: fire
 categories: YunNan 
 tags: 苍山 云南 旅行

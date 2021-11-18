@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 大理古城
+title: Day2：大理古城
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行

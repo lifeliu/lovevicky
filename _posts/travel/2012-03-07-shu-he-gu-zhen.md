@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 束河古镇
+title: Day6：束河古镇
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行

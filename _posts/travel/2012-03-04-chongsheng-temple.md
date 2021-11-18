@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 崇圣寺
+title: Day3：崇圣寺
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行

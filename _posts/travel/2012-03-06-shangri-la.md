@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 香格里拉
+title: Day5：香格里拉
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行

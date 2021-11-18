@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 云南7日游
+title: Day7：云南7日游
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行

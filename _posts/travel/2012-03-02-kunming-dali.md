@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 昆明-大理
+title: Day1：昆明-大理
 author: fire
 categories: YunNan 
 tags: 大理 云南 旅行
