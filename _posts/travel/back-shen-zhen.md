@@ -1,0 +1,21 @@
+---
+layout: post
+title: Day7：云南7日游
+author: fire
+categories: YunNan 
+tags: 大理 云南 旅行
+---
+
+![title](https://image.sideproject.cn/titlex/titlex_114.jpg){:class="image-title"}
+
+Day 7
+===
+
+
+早上6点50火车到昆明市
+早餐
+然后去岔街一号花市，买了几束玫瑰，百合（黄色），勿忘我等鲜花
+中餐
+机场候机，2点的飞机，4点多到深圳，整个旅行结束
+
+ 旅行日记－Day Seven 
