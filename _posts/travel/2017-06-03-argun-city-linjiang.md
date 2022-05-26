@@ -1,0 +1,13 @@
+---
+layout: post
+title: 第七站：临江
+author: fire
+categories: InnerMonggolia 
+tags: 说走就走 旅行
+---
+
+![title](https://image.sideproject.cn/titlex/titlex_079.jpg){:class="image-title"}
+
+**额尔古纳**
+
+

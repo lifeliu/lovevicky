@@ -1,0 +1,12 @@
+---
+layout: post
+title: 鼓浪屿2日游
+author: fire
+categories: love 
+tags: 鼓浪屿
+---
+
+![title](https://image.sideproject.cn/titlex/titlex_058.jpg){:class="image-title"}
+
+厦门鼓浪屿2日游
+
