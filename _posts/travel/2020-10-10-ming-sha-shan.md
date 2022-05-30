@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 鸣沙山
+title: 第七天：鸣沙山
 author: fire
 categories: GanSu 
 tags: 国庆小长假

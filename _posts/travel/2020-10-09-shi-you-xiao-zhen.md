@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 阿克赛石油小镇
+title: 第六天：阿克赛石油小镇
 author: fire
 categories: GanSu 
 tags: 国庆小长假

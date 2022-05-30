@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 嘉峪关
+title: 第八天：嘉峪关
 author: fire
 categories: GanSu 
 tags: 国庆小长假

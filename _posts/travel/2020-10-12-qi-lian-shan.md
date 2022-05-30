@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 祁连山大草原
+title: 第九天：祁连山大草原
 author: fire
 categories: GanSu 
 tags: 国庆小长假

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 西宁
+title: 第一天：西宁
 author: fire
 categories: QingHai
 tags: 国庆小长假

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 又见敦煌
+title: 第六天：又见敦煌
 author: fire
 categories: GanSu 
 tags: 国庆小长假

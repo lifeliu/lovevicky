@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 离开西宁
+title: 第十天：离开西宁
 author: fire
 categories: QingHai 
 tags: 国庆小长假

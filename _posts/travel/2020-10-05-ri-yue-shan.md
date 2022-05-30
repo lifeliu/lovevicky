@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 日月山-塔尔寺
+title: 第二天：日月山-塔尔寺
 author: fire
 categories: QingHai 
 tags: 国庆小长假

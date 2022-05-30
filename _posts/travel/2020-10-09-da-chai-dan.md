@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 大柴旦-翡翠湖-南八仙
+title: 第六天：大柴旦-翡翠湖-南八仙
 author: fire
 categories: QingHai 
 tags: 国庆小长假
