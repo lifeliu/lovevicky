@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第四天：茶卡盐湖
+title: 第四天：茶卡盐湖（上）
 author: fire
 categories: QingHai 
 tags: 国庆小长假
