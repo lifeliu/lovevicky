@@ -3,10 +3,11 @@ layout: post
 title: 深圳北
 author: fire
 categories: love 
-tags: 深圳北
+tags: 轨迹
+date: 2015/09/01 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_113.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_113.jpg)
 
 **龙华 · 深圳北（2015.9.15-2016.11.01）**
 

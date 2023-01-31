@@ -3,10 +3,11 @@ layout: post
 title: 2017年东北长假旅行
 author: fire
 categories: travel 
-tags: 小长假
+tags: 说走就走
+date: 2017/08/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_076.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_076.jpg)
 
 **说走就走的旅行**
 

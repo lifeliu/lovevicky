@@ -2,11 +2,12 @@
 layout: post
 title: 图片大小修改
 author: via
-categories: tools 
-tags: 图片
+categories: photography 
+tags: 摄影
+date: 2019/12/26 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_161.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_161.jpg)
 
 1，选中要编辑的图片，右键编辑
 

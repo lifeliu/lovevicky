@@ -3,10 +3,11 @@ layout: post
 title: 2020年国庆西北小长假
 author: fire
 categories: travel 
-tags: 国庆小长假
+tags: 小长假
+date: 2020/11/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg)
 
 **说走就走的旅行**
 

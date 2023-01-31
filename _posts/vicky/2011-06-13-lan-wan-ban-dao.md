@@ -4,9 +4,10 @@ title: 蓝湾半岛
 author: fire
 categories: love 
 tags: 轨迹
+date: 2011/06/13 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_105.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_105.jpg)
 
 **深圳 · 沙尾 · 蓝湾半岛（2011.6.13-2012.6.1）**
 

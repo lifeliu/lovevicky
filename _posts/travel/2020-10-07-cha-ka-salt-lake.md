@@ -2,11 +2,12 @@
 layout: post
 title: 第四天：茶卡盐湖（上）
 author: fire
-categories: QingHai 
-tags: 国庆小长假
+categories: travel 
+tags: 小长假
+date: 2020/11/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/travel/xibei/chakayanhu-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/chakayanhu-title.jpg)
 
 茶卡盐湖
 

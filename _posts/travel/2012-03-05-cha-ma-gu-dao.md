@@ -2,11 +2,12 @@
 layout: post
 title: Day4：茶马古道
 author: fire
-categories: YunNan 
-tags: 大理 云南 旅行
+categories: travel 
+tags: 大理
+date: 2022/5/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_068.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_068.jpg)
 
 Day 4
 ===

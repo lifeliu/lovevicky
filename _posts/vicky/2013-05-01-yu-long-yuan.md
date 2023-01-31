@@ -3,10 +3,11 @@ layout: post
 title: 钰龙园
 author: fire
 categories: love 
-tags: 钰龙园
+tags: 轨迹
+date: 2013/05/01 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_108.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_108.jpg)
 
 **南山 · 南头 · 英达钰龙园（2013.5.1-2014.9.1）**
 

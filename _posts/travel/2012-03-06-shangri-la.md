@@ -2,11 +2,12 @@
 layout: post
 title: Day5：香格里拉
 author: fire
-categories: YunNan 
-tags: 大理 云南 旅行
+categories: travel 
+tags: 大理
+date: 2022/5/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_110.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_110.jpg)
 
 Day 5
 ===

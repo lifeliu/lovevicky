@@ -2,15 +2,16 @@
 layout: post
 title: 第二天：日月山-塔尔寺
 author: fire
-categories: QingHai 
-tags: 国庆小长假
+categories: travel 
+tags: 小长假
+date: 2020/11/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/travel/xibei/riyueshan-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/riyueshan-title.jpg)
 
 日月山
 
-![title](https://image.sideproject.cn/travel/xibei/taersi-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/taersi-title.jpg)
 
 塔尔寺
 

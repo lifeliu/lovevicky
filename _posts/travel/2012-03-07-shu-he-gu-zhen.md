@@ -2,11 +2,12 @@
 layout: post
 title: Day6：束河古镇
 author: fire
-categories: YunNan 
-tags: 大理 云南 旅行
+categories: travel 
+tags: 旅行
+date: 2022/5/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_112.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_112.jpg)
 
 Day 6
 ===

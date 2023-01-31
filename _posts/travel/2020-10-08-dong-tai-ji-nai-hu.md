@@ -2,19 +2,20 @@
 layout: post
 title: 第五天：东台吉乃湖-最美315公路-水上雅丹
 author: fire
-categories: QingHai 
-tags: 国庆小长假
+categories: travel 
+tags: 小长假
+date: 2020/11/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/travel/xibei/dongtai-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/dongtai-title.jpg)
 
 东台吉乃湖
 
-![title](https://image.sideproject.cn/travel/xibei/315-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/315-title.jpg)
 
 最美315公路
 
-![title](https://image.sideproject.cn/travel/xibei/shuishang-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/shuishang-title.jpg)
 
 水上雅丹
 

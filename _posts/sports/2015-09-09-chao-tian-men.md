@@ -2,11 +2,12 @@
 layout: post
 title: 朝天门
 author: fire
-categories: Chongqing 
-tags: 朝天门 重庆 旅行
+categories: sports 
+tags: 朝天门
+date: 2022/5/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_119.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_119.jpg)
 
 **朝天门**
 

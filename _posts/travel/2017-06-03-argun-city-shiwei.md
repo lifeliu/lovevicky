@@ -2,11 +2,12 @@
 layout: post
 title: 第六站：室韦
 author: fire
-categories: InnerMonggolia 
-tags: 说走就走 旅行
+categories: travel 
+tags: 说走就走
+date: 2017/08/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_080.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_080.jpg)
 
 **额尔古纳**
 

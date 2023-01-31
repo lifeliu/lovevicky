@@ -2,10 +2,11 @@
 layout: post
 title: 南丫岛
 author: fire
-categories: HongKong 
-tags: 南丫岛 香港 旅行
+categories: sports 
+tags: 香港
+date: 2011/10/3 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_061.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_061.jpg)
 
 南丫岛

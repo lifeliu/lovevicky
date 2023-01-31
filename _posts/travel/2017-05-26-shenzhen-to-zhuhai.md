@@ -2,11 +2,12 @@
 layout: post
 title: 说走就走的旅行
 author: fire
-categories: Guangdong 
-tags: 说走就走 旅行
+categories: travel 
+tags: 说走就走
+date: 2017/08/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_071.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_071.jpg)
 
 **背包旅行**
 

@@ -2,11 +2,12 @@
 layout: post
 title: 第八天：张掖七彩丹霞（下）
 author: fire
-categories: GanSu 
-tags: 国庆小长假
+categories: travel 
+tags: 小长假
+date: 2020/11/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg)
 
 张掖七彩丹霞
 

@@ -2,19 +2,20 @@
 layout: post
 title: 第六天：大柴旦-翡翠湖-南八仙（上）
 author: fire
-categories: QingHai 
-tags: 国庆小长假
+categories: travel 
+tags: 小长假
+date: 2020/11/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg)
 
 大柴旦
 
-![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg)
 
 翡翠湖
 
-![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg)
 
 南八仙
 

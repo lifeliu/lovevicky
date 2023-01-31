@@ -2,15 +2,16 @@
 layout: post
 title: 第三天：青海湖-环湖骑行
 author: fire
-categories: QingHai 
-tags: 国庆小长假
+categories: travel 
+tags: 小长假
+date: 2020/11/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/travel/xibei/qinghaihu-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/qinghaihu-title.jpg)
 
 青海湖
 
-![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg)
 
 环湖骑行
 

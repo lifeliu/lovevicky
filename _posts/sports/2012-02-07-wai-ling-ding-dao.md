@@ -2,11 +2,12 @@
 layout: post
 title: 外伶仃岛
 author: fire
-categories: Guangdong 
-tags: 外伶仃岛 珠海 旅行
+categories: sports 
+tags: 旅游
+date: 2012/2/7 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_062.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_062.jpg)
 
 **外伶仃岛**
 

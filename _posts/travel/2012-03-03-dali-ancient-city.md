@@ -2,11 +2,12 @@
 layout: post
 title: Day2：大理古城
 author: fire
-categories: YunNan 
-tags: 大理 云南 旅行
+categories: travel 
+tags: 旅行
+date: 2012/5/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_065.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_065.jpg)
 
 Day 2
 ===

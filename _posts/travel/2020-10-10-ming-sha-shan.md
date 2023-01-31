@@ -2,11 +2,12 @@
 layout: post
 title: 第七天：鸣沙山（上）
 author: fire
-categories: GanSu 
-tags: 国庆小长假
+categories: travel 
+tags: 小长假
+date: 2020/11/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_164.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_164.jpg)
 
 鸣沙山
 

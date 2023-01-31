@@ -3,10 +3,11 @@ layout: post
 title: 财富港
 author: fire
 categories: love 
-tags: 财富港
+tags: 轨迹
+date: 2012/06/01 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_107.jpg){:class="image-title"}
+![title](https://image.sideproject.cn/titlex/titlex_107.jpg)
 
 **宝安 · 坪洲 · 财富港（2012.6.1-2013.5.1）**
 
