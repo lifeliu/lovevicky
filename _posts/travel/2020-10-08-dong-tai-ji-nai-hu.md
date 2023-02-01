@@ -4,7 +4,7 @@ title: 第五天：东台吉乃湖-最美315公路-水上雅丹
 author: fire
 categories: travel 
 tags: 小长假
-date: 2020/11/1 22:00:00
+date: 2020/10/8 22:00:00
 ---
 
 ![title](https://image.sideproject.cn/travel/xibei/dongtai-title.jpg)

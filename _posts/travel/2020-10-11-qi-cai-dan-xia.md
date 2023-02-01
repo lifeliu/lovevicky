@@ -4,7 +4,7 @@ title: 第八天：张掖七彩丹霞（下）
 author: fire
 categories: travel 
 tags: 小长假
-date: 2020/11/1 22:00:00
+date: 2020/10/11 22:00:00
 ---
 
 ![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg)

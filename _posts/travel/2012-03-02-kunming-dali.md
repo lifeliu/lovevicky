@@ -4,7 +4,7 @@ title: Day1：昆明-大理
 author: fire
 categories: travel 
 tags: 旅行
-date: 2012/5/1 22:00:00
+date: 2012/3/2 22:00:00
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_064.jpg)

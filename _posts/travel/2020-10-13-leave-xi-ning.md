@@ -4,7 +4,7 @@ title: 第十天：离开西宁
 author: fire
 categories: travel 
 tags: 小长假
-date: 2020/11/1 22:00:00
+date: 2020/10/13 22:00:00
 ---
 
 ![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg)
