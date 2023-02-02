@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第八天：嘉峪关（上）
+title: 第八天：嘉峪关
 author: fire
 categories: travel 
 tags: 小长假

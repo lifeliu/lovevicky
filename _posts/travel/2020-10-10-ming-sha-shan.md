@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第七天：鸣沙山（上）
+title: 第七天：鸣沙山
 author: fire
 categories: travel 
 tags: 小长假

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第四天：茶卡盐湖（上）
+title: 第四天：茶卡盐湖
 author: fire
 categories: travel 
 tags: 小长假

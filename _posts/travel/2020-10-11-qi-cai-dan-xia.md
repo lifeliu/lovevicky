@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第八天：张掖七彩丹霞（下）
+title: 第八天：张掖七彩丹霞
 author: fire
 categories: travel 
 tags: 小长假

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第六天：又见敦煌（下）
+title: 第六天：又见敦煌
 author: fire
 categories: travel 
 tags: 小长假

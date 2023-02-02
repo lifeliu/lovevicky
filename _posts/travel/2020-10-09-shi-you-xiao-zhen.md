@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第六天：阿克赛石油小镇（中）
+title: 第六天：阿克赛石油小镇
 author: fire
 categories: travel 
 tags: 小长假

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第六天：大柴旦-翡翠湖-南八仙（上）
+title: 第六天：大柴旦-翡翠湖-南八仙
 author: fire
 categories: travel 
 tags: 小长假
