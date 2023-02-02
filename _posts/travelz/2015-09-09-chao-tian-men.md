@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 重庆朝天门
-author: fire
 categories: sports 
 tags: 重庆
 date: 2015/9/9 22:00:00

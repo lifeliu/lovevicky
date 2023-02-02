@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 珠海外伶仃岛一日游
-author: fire
 categories: sports 
 tags: 广东
 date: 2012/2/7 22:00:00

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 深圳战狼谷山地越野
-author: fire
 categories: sports 
 tags: 广东
 date: 2021/11/07 22:00:00

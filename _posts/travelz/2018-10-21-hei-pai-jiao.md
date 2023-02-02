@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 惠州黑排角穿越
-author: fire
 categories: travel
 tags: 广东
 date: 2018/10/21 22:00:00
