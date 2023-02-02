@@ -3,7 +3,7 @@ layout: post
 title: Day4：茶马古道
 author: fire
 categories: travel 
-tags: 大理
+tags: 旅行
 date: 2012/3/5 22:00:00
 ---
 

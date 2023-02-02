@@ -3,7 +3,7 @@ layout: post
 title: Day5：香格里拉
 author: fire
 categories: travel 
-tags: 大理
+tags: 旅行
 date: 2012/3/6 22:00:00
 ---
 
