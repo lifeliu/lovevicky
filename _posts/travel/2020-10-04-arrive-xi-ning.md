@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一天：到达西宁
+title: 第一天：到达西宁 - 东关清真大寺
 author: fire
 categories: travel
 tags: 小长假
