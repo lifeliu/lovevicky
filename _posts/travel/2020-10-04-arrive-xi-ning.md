@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一天：西宁
+title: 第一天：到达西宁
 author: fire
 categories: travel
 tags: 小长假
