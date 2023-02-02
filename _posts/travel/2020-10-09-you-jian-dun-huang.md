@@ -4,7 +4,7 @@ title: 第六天：又见敦煌（下）
 author: fire
 categories: travel 
 tags: 小长假
-date: 2020/10/9 22:00:00
+date: 2020/10/9 23:00:00
 ---
 
 ![title](https://image.sideproject.cn/travel/xibei/bicycle-title.jpg)
