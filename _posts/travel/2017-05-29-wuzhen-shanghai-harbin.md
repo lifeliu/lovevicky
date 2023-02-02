@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一站：一路向北到哈尔滨
+title: 第二站：一路向北（乌镇->上海->哈尔滨）
 author: fire
 categories: travel 
 tags: 说走就走

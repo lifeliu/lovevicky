@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一站：乌镇
+title: 第一站：宁波乌镇
 author: fire
 categories: travel 
 tags: 说走就走
